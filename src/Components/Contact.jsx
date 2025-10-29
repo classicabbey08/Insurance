@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Services = () => {
+const Contact = () => {
   return (
     <section className="container-fluid py-5 bg-dark text-light" id="services">
       {/* Header */}
@@ -91,4 +91,4 @@ const Services = () => {
   )
 }
 
-export default Services
+export default Contact

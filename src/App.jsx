@@ -5,14 +5,14 @@ import Plans from './Components/Plans'
 import Contact from './Components/Contact'
 import Footer from './Components/Footer'
 import About from './Components/About'
-import Services from './Components/Services'
+// import Services from './Components/Services'
 
 const App = () => {
   return (
     <div>
       <Hero />
       <About />
-      <Services />
+      {/* <Services /> */}
       <Plans />
       <Contact />
       <Footer />
